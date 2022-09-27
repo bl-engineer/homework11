@@ -139,6 +139,10 @@ You are required to submit BOTH of the following for review:
 
 # Result: Note Taker
 
+<img width="1495" alt="Screen Shot 2022-09-27 at 2 32 41 AM" src="https://user-images.githubusercontent.com/15242022/192453090-18d6517b-b480-4e45-8ff4-f68bf3373472.png">
+
+<img width="1495" alt="Screen Shot 2022-09-27 at 2 39 49 AM" src="https://user-images.githubusercontent.com/15242022/192453070-de0582ad-5ea5-4a05-a3ea-dac2cfa06cd4.png">
+
 ---
 © Done by: Bocar Ly
 Assigment: Week 11 Homework 
