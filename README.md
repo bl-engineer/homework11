@@ -138,6 +138,6 @@ You are required to submit BOTH of the following for review:
 © Done by: Bocar Ly
 Assigment: Week 11 Homework 
 
-[Deployed_URL](https://bl-engineer.github.io/homework11/)
+[Deployed_URL](https://note-taker-bl.herokuapp.com/)
 
 [Github_URL](https://github.com/bl-engineer/homework11/)
