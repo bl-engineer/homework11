@@ -1,9 +1,15 @@
 html,
 body {
   height: 100%;
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  /* overflow: hidden; */
 }
+.row{
+  border: 1px solid;
+  border-left: 1px solid;
+  border-radius: 0%;
+}
+
 
 .save-note {
   display: none;
@@ -28,6 +34,7 @@ body {
   resize: none;
   height: calc(100% - 63px);
   padding-top: 15px;
+
 }
 
 .note-title {
@@ -38,14 +45,15 @@ body {
 
 .note-title:read-only,
 .note-textarea:read-only {
-  color: #757575;
+  color: 757575;
 }
 
 .list-container .card {
-  height: calc(100vh - 70px);
+  height: calc(100vh - 110px);
   border-bottom: none;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
+  border-right: 1px solid;
 }
 
 .list-container {
@@ -58,7 +66,9 @@ body {
   border-top: none;
   border-top-right-radius: 0;
   border-top-left-radius: 0;
+
 }
+
 
 .list-item-title {
   display: inline-block;
@@ -73,6 +83,14 @@ body {
 .list-container .list-group-item {
   border-left: none;
   border-right: none;
-  padding: 20px;
+  padding: 30px;
   cursor: pointer;
+  border-radius: 0%;
+  border: 1px solid;
+  border-left: 0px solid;
+  border-right: 0px solid;
+}
+.navbar{
+  border: 1px solid;
+  border-bottom: 0;
 }
